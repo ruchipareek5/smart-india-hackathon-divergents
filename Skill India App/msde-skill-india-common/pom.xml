@@ -5,7 +5,7 @@
     <artifactId>msde-skill-india</artifactId>
     <version>${global.version}</version>
   </parent>
-  <artifactId>msde-skill-india-server</artifactId>
-  <name>msde-skill-india-server</name>
-  <description>this is the project to implement business logic</description>
+  <artifactId>msde-skill-india-common</artifactId>
+  <name>msde-skill-india-common</name>
+  <description>project for utility constants</description>
 </project>
