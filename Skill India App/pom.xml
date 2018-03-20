@@ -13,12 +13,7 @@
   <name>msde-skill-india-app</name>
   <description>for Smart India Hackathon</description>
   <modules>
-  	
-  	
-  	
-  	<module>msde-skill-india-server</module>
-  	<module>common</module>
-    <module>server</module>
+  <module>msde-skill-india-server</module>
     <module>msde-skill-india-common</module>
   </modules>
   
